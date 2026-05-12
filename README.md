@@ -136,7 +136,8 @@ client.close()
 
 ##OUTPUT
 
-<img width="1920" height="1200" alt="cn 1b" src="https://github.com/user-attachments/assets/2a7b11d3-667d-400c-9a5d-dea0413baff9" />
+<img width="953" height="503" alt="cn 1 2" src="https://github.com/user-attachments/assets/f10be96e-22e7-4d4f-afe2-6d9324151efc" />
+
 
 ## Result:
 
